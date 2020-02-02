@@ -1,0 +1,209 @@
+State Code,State Name,Type,Male,Female,Total
+23,Maine,Manufacturing,38652.0,11431.0,50083
+37,North Carolina,Manufacturing,359994.0,159204.0,519198
+13,Georgia,Manufacturing,315970.0,148450.0,464420
+02,Alaska,Manufacturing,7233.0,2261.0,9494
+01,Alabama,Manufacturing,190695.0,68454.0,259149
+50,Vermont,Manufacturing,20388.0,6274.0,26662
+32,Nevada,Manufacturing,39863.0,14388.0,54251
+54,West Virginia,Manufacturing,40763.0,10450.0,51213
+40,Oklahoma,Manufacturing,119429.0,32084.0,151513
+55,Wisconsin,Manufacturing,351739.0,132689.0,484428
+72,Puerto Rico,Manufacturing,47858.0,25310.0,73168
+51,Virginia,Manufacturing,188645.0,70368.0,259013
+38,North Dakota,Manufacturing,17872.0,5731.0,23603
+45,South Carolina,Manufacturing,194645.0,75336.0,269981
+41,Oregon,Manufacturing,148386.0,46898.0,195284
+56,Wyoming,Manufacturing,0.0,0.0,0
+06,California,Manufacturing,990586.0,429992.0,1420578
+28,Mississippi,Manufacturing,101421.0,40168.0,141589
+09,Connecticut,Manufacturing,118034.0,48720.0,166754
+48,Texas,Manufacturing,737649.0,251512.0,989161
+24,Maryland,Manufacturing,86845.0,35035.0,121880
+12,Florida,Manufacturing,298859.0,126549.0,425408
+25,Massachusetts,Manufacturing,180293.0,81870.0,262163
+11,District of Columbia,Manufacturing,0.0,0.0,0
+49,Utah,Manufacturing,97926.0,30220.0,128146
+36,New York,Manufacturing,325624.0,133296.0,458920
+34,New Jersey,Manufacturing,203023.0,109867.0,312890
+39,Ohio,Manufacturing,552242.0,189249.0,741491
+29,Missouri,Manufacturing,210856.0,81681.0,292537
+42,Pennsylvania,Manufacturing,467994.0,169162.0,637156
+26,Michigan,Manufacturing,570488.0,199837.0,770325
+31,Nebraska,Manufacturing,62661.0,21437.0,84098
+16,Idaho,Manufacturing,51553.0,17750.0,69303
+35,New Mexico,Manufacturing,20847.0,7262.0,28109
+15,Hawaii,Manufacturing,11209.0,4338.0,15547
+46,South Dakota,Manufacturing,28133.0,10887.0,39020
+53,Washington,Manufacturing,224081.0,71004.0,295085
+44,Rhode Island,Manufacturing,34491.0,15407.0,49898
+04,Arizona,Manufacturing,141190.0,47620.0,188810
+47,Tennessee,Manufacturing,257058.0,102834.0,359892
+20,Kansas,Manufacturing,111574.0,40652.0,152226
+08,Colorado,Manufacturing,118396.0,43950.0,162346
+18,Indiana,Manufacturing,404564.0,144310.0,548874
+21,Kentucky,Manufacturing,177840.0,61971.0,239811
+22,Louisiana,Manufacturing,108625.0,25166.0,133791
+17,Illinois,Manufacturing,460429.0,182293.0,642722
+19,Iowa,Manufacturing,157278.0,58642.0,215920
+33,New Hampshire,Manufacturing,57687.0,23429.0,81116
+05,Arkansas,Manufacturing,117238.0,43996.0,161234
+10,Delaware,Manufacturing,23740.0,11179.0,34919
+27,Minnesota,Manufacturing,244982.0,97034.0,342016
+30,Montana,Manufacturing,17834.0,5498.0,23332
+23,Maine,IT,23509.0,10443.0,33952
+37,North Carolina,IT,204810.0,80852.0,285662
+13,Georgia,IT,193676.0,79368.0,273044
+02,Alaska,IT,14389.0,5601.0,19990
+01,Alabama,IT,82590.0,27435.0,110025
+50,Vermont,IT,13846.0,5280.0,19126
+32,Nevada,IT,42602.0,12043.0,54645
+54,West Virginia,IT,23813.0,8466.0,32279
+40,Oklahoma,IT,62326.0,18656.0,80982
+55,Wisconsin,IT,124944.0,44480.0,169424
+72,Puerto Rico,IT,22445.0,11739.0,34184
+51,Virginia,IT,264930.0,103218.0,368148
+38,North Dakota,IT,10352.0,3270.0,13622
+45,South Carolina,IT,84668.0,29614.0,114282
+41,Oregon,IT,104772.0,35927.0,140699
+56,Wyoming,IT,9240.0,2755.0,11995
+06,California,IT,971974.0,360868.0,1332842
+28,Mississippi,IT,30894.0,9305.0,40199
+09,Connecticut,IT,91181.0,31328.0,122509
+48,Texas,IT,577518.0,179838.0,757356
+24,Maryland,IT,197182.0,92824.0,290006
+12,Florida,IT,325014.0,117304.0,442318
+25,Massachusetts,IT,223378.0,95492.0,318870
+11,District of Columbia,IT,26196.0,18978.0,45174
+49,Utah,IT,84517.0,22560.0,107077
+36,New York,IT,356476.0,135602.0,492078
+34,New Jersey,IT,235350.0,86239.0,321589
+39,Ohio,IT,233879.0,77071.0,310950
+29,Missouri,IT,119042.0,40548.0,159590
+42,Pennsylvania,IT,264536.0,95245.0,359781
+26,Michigan,IT,230979.0,75932.0,306911
+31,Nebraska,IT,39545.0,12908.0,52453
+16,Idaho,IT,33269.0,10143.0,43412
+35,New Mexico,IT,38002.0,14502.0,52504
+15,Hawaii,IT,23105.0,7250.0,30355
+46,South Dakota,IT,13712.0,4829.0,18541
+53,Washington,IT,247685.0,79719.0,327404
+44,Rhode Island,IT,20508.0,9495.0,30003
+04,Arizona,IT,145480.0,47571.0,193051
+47,Tennessee,IT,108375.0,37447.0,145822
+20,Kansas,IT,59052.0,18475.0,77527
+08,Colorado,IT,180490.0,60867.0,241357
+18,Indiana,IT,126656.0,36685.0,163341
+21,Kentucky,IT,64672.0,22525.0,87197
+22,Louisiana,IT,64855.0,23275.0,88130
+17,Illinois,IT,261199.0,91923.0,353122
+19,Iowa,IT,59477.0,20556.0,80033
+33,New Hampshire,IT,43092.0,14293.0,57385
+05,Arkansas,IT,35360.0,10862.0,46222
+10,Delaware,IT,18552.0,9163.0,27715
+27,Minnesota,IT,148137.0,56425.0,204562
+30,Montana,IT,16369.0,7525.0,23894
+23,Maine,Social Workers,2575.0,9748.0,12323
+37,North Carolina,Social Workers,12225.0,53575.0,65800
+13,Georgia,Social Workers,10440.0,45697.0,56137
+02,Alaska,Social Workers,1931.0,4815.0,6746
+01,Alabama,Social Workers,4305.0,19095.0,23400
+50,Vermont,Social Workers,2640.0,5684.0,8324
+32,Nevada,Social Workers,3472.0,10474.0,13946
+54,West Virginia,Social Workers,2394.0,9545.0,11939
+40,Oklahoma,Social Workers,4705.0,18760.0,23465
+55,Wisconsin,Social Workers,7872.0,33194.0,41066
+72,Puerto Rico,Social Workers,4150.0,11765.0,15915
+51,Virginia,Social Workers,13437.0,46987.0,60424
+38,North Dakota,Social Workers,868.0,3168.0,4036
+45,South Carolina,Social Workers,5602.0,22377.0,27979
+41,Oregon,Social Workers,9865.0,24313.0,34178
+56,Wyoming,Social Workers,1357.0,2636.0,3993
+06,California,Social Workers,71018.0,184753.0,255771
+28,Mississippi,Social Workers,1837.0,10262.0,12099
+09,Connecticut,Social Workers,6337.0,22404.0,28741
+48,Texas,Social Workers,30999.0,102803.0,133802
+24,Maryland,Social Workers,8453.0,34947.0,43400
+12,Florida,Social Workers,21859.0,84614.0,106473
+25,Massachusetts,Social Workers,16734.0,52221.0,68955
+11,District of Columbia,Social Workers,2035.0,5320.0,7355
+49,Utah,Social Workers,5934.0,11438.0,17372
+36,New York,Social Workers,42344.0,119210.0,161554
+34,New Jersey,Social Workers,14964.0,46048.0,61012
+39,Ohio,Social Workers,15809.0,58581.0,74390
+29,Missouri,Social Workers,10154.0,28319.0,38473
+42,Pennsylvania,Social Workers,27120.0,76352.0,103472
+26,Michigan,Social Workers,11128.0,43249.0,54377
+31,Nebraska,Social Workers,3370.0,10794.0,14164
+16,Idaho,Social Workers,2980.0,8103.0,11083
+35,New Mexico,Social Workers,4029.0,9766.0,13795
+15,Hawaii,Social Workers,2074.0,7253.0,9327
+46,South Dakota,Social Workers,1794.0,3542.0,5336
+53,Washington,Social Workers,14694.0,37921.0,52615
+44,Rhode Island,Social Workers,2375.0,8200.0,10575
+04,Arizona,Social Workers,8521.0,28936.0,37457
+47,Tennessee,Social Workers,7370.0,26715.0,34085
+20,Kansas,Social Workers,3705.0,14187.0,17892
+08,Colorado,Social Workers,8707.0,30728.0,39435
+18,Indiana,Social Workers,7011.0,32232.0,39243
+21,Kentucky,Social Workers,7481.0,25197.0,32678
+22,Louisiana,Social Workers,5395.0,19001.0,24396
+17,Illinois,Social Workers,21152.0,65774.0,86926
+19,Iowa,Social Workers,4016.0,15920.0,19936
+33,New Hampshire,Social Workers,1853.0,7367.0,9220
+05,Arkansas,Social Workers,2072.0,9353.0,11425
+10,Delaware,Social Workers,1832.0,5829.0,7661
+27,Minnesota,Social Workers,13228.0,35605.0,48833
+30,Montana,Social Workers,1773.0,5848.0,7621
+23,Maine,Finance,1677.0,3613.0,5290
+37,North Carolina,Finance,19257.0,36365.0,55622
+13,Georgia,Finance,20722.0,41838.0,62560
+02,Alaska,Finance,704.0,2758.0,3462
+01,Alabama,Finance,7347.0,16773.0,24120
+50,Vermont,Finance,712.0,2149.0,2861
+32,Nevada,Finance,4980.0,9781.0,14761
+54,West Virginia,Finance,3628.0,4746.0,8374
+40,Oklahoma,Finance,7590.0,14470.0,22060
+55,Wisconsin,Finance,13286.0,23168.0,36454
+72,Puerto Rico,Finance,7397.0,9395.0,16792
+51,Virginia,Finance,23066.0,34569.0,57635
+38,North Dakota,Finance,3133.0,3528.0,6661
+45,South Carolina,Finance,8895.0,18826.0,27721
+41,Oregon,Finance,6089.0,14275.0,20364
+56,Wyoming,Finance,430.0,1689.0,2119
+06,California,Finance,99958.0,161772.0,261730
+28,Mississippi,Finance,3205.0,10382.0,13587
+09,Connecticut,Finance,13134.0,15898.0,29032
+48,Texas,Finance,64480.0,108781.0,173261
+24,Maryland,Finance,20261.0,31788.0,52049
+12,Florida,Finance,42823.0,75556.0,118379
+25,Massachusetts,Finance,25354.0,29577.0,54931
+11,District of Columbia,Finance,1899.0,2017.0,3916
+49,Utah,Finance,9934.0,8566.0,18500
+36,New York,Finance,64238.0,76879.0,141117
+34,New Jersey,Finance,36635.0,35787.0,72422
+39,Ohio,Finance,31057.0,40296.0,71353
+29,Missouri,Finance,13727.0,25534.0,39261
+42,Pennsylvania,Finance,39064.0,41580.0,80644
+26,Michigan,Finance,21194.0,35471.0,56665
+31,Nebraska,Finance,4683.0,7416.0,12099
+16,Idaho,Finance,2846.0,5924.0,8770
+35,New Mexico,Finance,2723.0,4721.0,7444
+15,Hawaii,Finance,2486.0,4300.0,6786
+46,South Dakota,Finance,927.0,2665.0,3592
+53,Washington,Finance,15469.0,29837.0,45306
+44,Rhode Island,Finance,2458.0,2285.0,4743
+04,Arizona,Finance,13783.0,22392.0,36175
+47,Tennessee,Finance,13568.0,27343.0,40911
+20,Kansas,Finance,7973.0,11875.0,19848
+08,Colorado,Finance,15535.0,25317.0,40852
+18,Indiana,Finance,17307.0,25948.0,43255
+21,Kentucky,Finance,7728.0,11216.0,18944
+22,Louisiana,Finance,7277.0,14828.0,22105
+17,Illinois,Finance,39007.0,50442.0,89449
+19,Iowa,Finance,7398.0,13754.0,21152
+33,New Hampshire,Finance,2156.0,5325.0,7481
+05,Arkansas,Finance,4445.0,6936.0,11381
+10,Delaware,Finance,2710.0,2639.0,5349
+27,Minnesota,Finance,17907.0,24750.0,42657
+30,Montana,Finance,617.0,4040.0,4657
